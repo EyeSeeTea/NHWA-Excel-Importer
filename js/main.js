@@ -205,6 +205,7 @@ function processExcelSheet() {
                         var tempValue = getCellData(sheet.sheet_no, ds.cell_no);
                         if (tempValue != "" && !ds.total) {
                             dataValue.value = tempValue;
+			    if (ds.comment) dataValue.comment = tempValue;
                             dataValues.push(dataValue);
                         }
                     }
