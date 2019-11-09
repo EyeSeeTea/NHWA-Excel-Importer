@@ -37,6 +37,7 @@ $(document).ready(function() {
         var htmlStr = "";
 
         if (isStartUpSuccessful) {
+            htmlStr += "<option disabled selected value> -- Select an option -- </option>";
             for (var t = 0; t < templates.length; t++) {
                 htmlStr += "<option value='" + t + "'>";
                 htmlStr += templates[t].name;
@@ -46,13 +47,15 @@ $(document).ready(function() {
             $("#temSelectBox").html(htmlStr);
             changeTemplate();
 
-            for (var t = 0; t < templateObject.sheets.length; t++) {
-                var sheet = templateObject.sheets[t];
+            if (templateObject !== undefined) {
+                for (var t = 0; t < templateObject.sheets.length; t++) {
+                    var sheet = templateObject.sheets[t];
 
-                try {
-                    sheetEndColumns.push(sheet.last_data_column);
-                } catch (ex) {
-                    sheetEndColumns.push("ZZZZ"); //a very large column number
+                    try {
+                        sheetEndColumns.push(sheet.last_data_column);
+                    } catch (ex) {
+                        sheetEndColumns.push("ZZZZ"); //a very large column number
+                    }
                 }
             }
         }
@@ -83,12 +86,14 @@ function changeTemplate() {
     try {
         var selectedTemIndex = parseInt($("#temSelectBox").val());
         templateObject = data.templates[selectedTemIndex];
-        var href = "";
 
-        if (templateObject.file != "")
-            href = "templates/" + templateObject.file;
-
-        $("#downloadLogo").attr({ target: "_blank", href: href });
+        if (templateObject !== undefined && templateObject.file != "") {
+            var href = "templates/" + templateObject.file;
+            $("#downloadLogo").attr({ target: "_blank", href: href });
+            $(".action-buttons").css("pointer-events", "auto");
+        } else {
+            $(".action-buttons").css("pointer-events", "none");
+        }
     } catch (ex) {
         isStartUpSuccessful = false;
         startUpMsg = "Please check the template JSON. Error : " + ex.message;
