@@ -2,7 +2,7 @@
 // You can run it in the Chrome Development Console and retrieve the results in JSON
 
 const rawMetadata = await (await fetch(
-  "/api/dataSets/WDyQKfAvY3V/metadata.json"
+  "https://extranet.who.int/dhis2-dev/api/dataSets/WDyQKfAvY3V/metadata.json"
 )).json();
 
 const metadata = new Map();
@@ -63,6 +63,7 @@ function getDataElements(
       cell_no: `${letters[i % letters.length]}${parseInt(i / letters.length) +
         dataRowStart}`,
       total: input.disabled,
+      comment: comments.includes(data[0]),
       name: `${metadata.get(data[0]).name} ${metadata.get(data[1]).name}`
     };
   });
@@ -89,6 +90,7 @@ function getDataElementsCustomRows(
         cocuid: data[1],
         cell_no: `${letters[i]}${row.row}`,
         total: field.disabled,
+        comment: comments.includes(data[0]),
         name: `${metadata.get(data[0]).name} ${metadata.get(data[1]).name}`
       });
     }

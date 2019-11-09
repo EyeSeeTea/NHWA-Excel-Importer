@@ -1,7 +1,7 @@
 // This script is meant to be executed with a window object (JS document)
 // You can run it in the Chrome Development Console and retrieve the results in JSON
 
-let rawMetadata = await(await fetch("/api/dataSets/pZ3XRBi9gYE/metadata.json")).json();
+let rawMetadata = await(await fetch("https://extranet.who.int/dhis2-dev/api/dataSets/pZ3XRBi9gYE/metadata.json")).json();
 let metadata = new Map();
 for (const type in rawMetadata) {
     const elements = rawMetadata[type];
@@ -18,6 +18,7 @@ let getDataElements = (tabSelector, letters, dataRowStart,  element = "input", t
             cocuid: data[1],
             cell_no: `${letters[i % letters.length]}${parseInt(i / letters.length) + dataRowStart}`,
             total: false,
+            comment: comments.includes(data[0]),
             name: `${metadata.get(data[0]).name} ${metadata.get(data[1]).name}`
         };
     });

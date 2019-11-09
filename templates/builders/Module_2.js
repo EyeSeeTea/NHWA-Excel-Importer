@@ -30,6 +30,7 @@ function getDataElements(
       cell_no: `${letters[i % letters.length]}${parseInt(i / letters.length) +
         dataRowStart}`,
       total: false,
+      comment: comments.includes(data[0]),
       name: `${metadata.get(data[0]).name} ${metadata.get(data[1]).name}`
     };
   });
@@ -126,7 +127,7 @@ const sheet4 = {
 const module2 = {
   name: "Module 2 Template",
   file: "NHWA_Module_2.xlsx",
-  sheets: [sheet1, sheet2, sheet4]
+  sheets: [sheet1, sheet2, sheet3, sheet4]
 };
 
 JSON.stringify(module2);

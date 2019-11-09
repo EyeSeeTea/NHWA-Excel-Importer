@@ -49,6 +49,7 @@ function getDataElements(
       cell_no: `${letters[i % letters.length]}${parseInt(i / letters.length) +
         dataRowStart}`,
       total: input.disabled,
+      comment: comments.includes(data[0]),
       name: `${metadata.get(data[0]).name} ${metadata.get(data[1]).name}`
     };
   });
