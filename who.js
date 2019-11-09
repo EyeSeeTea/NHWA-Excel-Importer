@@ -27494,7 +27494,8 @@ var whoTemplate = {
                             cocuid: "IMqululFzhP",
                             cell_no: "E8",
                             total: false,
-                            name: "NHWA_Expenditure on health workforce Public"
+                            name:
+                                "NHWA_Expenditure on health workforce NHWA_Public"
                         },
                         {
                             deuid: "gNDFctqpNyv",
@@ -27502,7 +27503,7 @@ var whoTemplate = {
                             cell_no: "F8",
                             total: false,
                             name:
-                                "NHWA_Expenditure on health workforce Private not for profit"
+                                "NHWA_Expenditure on health workforce NHWA_Private not for profit"
                         },
                         {
                             deuid: "gNDFctqpNyv",
@@ -27510,7 +27511,7 @@ var whoTemplate = {
                             cell_no: "G8",
                             total: false,
                             name:
-                                "NHWA_Expenditure on health workforce Private for profit"
+                                "NHWA_Expenditure on health workforce NHWA_Private for profit"
                         },
                         {
                             deuid: "Wgfv9IaDiWM",
@@ -27522,35 +27523,35 @@ var whoTemplate = {
                         },
                         {
                             deuid: "CvaGFNVhuQl",
-                            cocuid: "HQPWV8cT7li",
+                            cocuid: "Pva8axKgU16",
                             cell_no: "D16",
                             total: false,
                             name:
-                                "NHWA_Total expenditure on compensation of employees Government"
+                                "NHWA_Total expenditure on compensation of employees NHWA_Government"
                         },
                         {
                             deuid: "CvaGFNVhuQl",
-                            cocuid: "FiRcnmXF1Yg",
+                            cocuid: "tOubXDEXuXK",
                             cell_no: "E16",
                             total: false,
                             name:
-                                "NHWA_Total expenditure on compensation of employees Out of Pocket"
+                                "NHWA_Total expenditure on compensation of employees NHWA_Voluntary"
                         },
                         {
                             deuid: "CvaGFNVhuQl",
-                            cocuid: "QKhM7ublqzd",
+                            cocuid: "BEmreemK803",
                             cell_no: "F16",
                             total: false,
                             name:
-                                "NHWA_Total expenditure on compensation of employees Official Development Assistance"
+                                "NHWA_Total expenditure on compensation of employees NHWA_Household"
                         },
                         {
                             deuid: "CvaGFNVhuQl",
-                            cocuid: "txxKPnVUGvV",
+                            cocuid: "qPPju3xBhV9",
                             cell_no: "G16",
                             total: false,
                             name:
-                                "NHWA_Total expenditure on compensation of employees Others"
+                                "NHWA_Total expenditure on compensation of employees NHWA_Other compensation"
                         },
                         {
                             deuid: "l5RPrypr3Wg",
@@ -27558,7 +27559,7 @@ var whoTemplate = {
                             cell_no: "E20",
                             total: false,
                             name:
-                                "NHWA_Public expenditure on compensation of employees Wages and Salary"
+                                "NHWA_Public expenditure on compensation of employees Gen_Wages and Salary"
                         },
                         {
                             deuid: "l5RPrypr3Wg",
@@ -27566,7 +27567,7 @@ var whoTemplate = {
                             cell_no: "F20",
                             total: false,
                             name:
-                                "NHWA_Public expenditure on compensation of employees Social contribution"
+                                "NHWA_Public expenditure on compensation of employees Gen_Social contribution"
                         },
                         {
                             deuid: "l5RPrypr3Wg",
@@ -27574,7 +27575,7 @@ var whoTemplate = {
                             cell_no: "G20",
                             total: false,
                             name:
-                                "NHWA_Public expenditure on compensation of employees Others"
+                                "NHWA_Public expenditure on compensation of employees NHWA_Others"
                         }
                     ]
                 },
@@ -27595,7 +27596,7 @@ var whoTemplate = {
                             cell_no: "D10",
                             total: false,
                             name:
-                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities Medical Doctors"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities Gen_Medical Doctors"
                         },
                         {
                             deuid: "BOsqct4iCpa",
@@ -27603,7 +27604,7 @@ var whoTemplate = {
                             cell_no: "E10",
                             total: false,
                             name:
-                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities Medical Doctors"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities Gen_Medical Doctors"
                         },
                         {
                             deuid: "H6pdAoosHWN",
@@ -27611,7 +27612,7 @@ var whoTemplate = {
                             cell_no: "F10",
                             total: false,
                             name:
-                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Medical Doctors"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Gen_Medical Doctors"
                         },
                         {
                             deuid: "BCjjT4Xujzu",
@@ -27619,7 +27620,7 @@ var whoTemplate = {
                             cell_no: "G10",
                             total: false,
                             name:
-                                "NHWA_total median earnings HWF Medical Doctors"
+                                "NHWA_total median earnings HWF Gen_Medical Doctors"
                         },
                         {
                             deuid: "oTcSBrUk1hs",
@@ -27627,7 +27628,7 @@ var whoTemplate = {
                             cell_no: "H10",
                             total: false,
                             name:
-                                "NHWA_median earnings of men HWF Medical Doctors"
+                                "NHWA_median earnings of men HWF Gen_Medical Doctors"
                         },
                         {
                             deuid: "kOWad32u5xr",
@@ -27635,7 +27636,7 @@ var whoTemplate = {
                             cell_no: "I10",
                             total: false,
                             name:
-                                "NHWA_median earnings of female HWF Medical Doctors"
+                                "NHWA_median earnings of female HWF Gen_Medical Doctors"
                         },
                         {
                             deuid: "FVANVRToxVF",
@@ -27643,7 +27644,7 @@ var whoTemplate = {
                             cell_no: "D11",
                             total: false,
                             name:
-                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities General Medical Practitioner"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities Gen_General Medical Practitioner"
                         },
                         {
                             deuid: "BOsqct4iCpa",
@@ -27651,7 +27652,7 @@ var whoTemplate = {
                             cell_no: "E11",
                             total: false,
                             name:
-                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities General Medical Practitioner"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities Gen_General Medical Practitioner"
                         },
                         {
                             deuid: "H6pdAoosHWN",
@@ -27659,7 +27660,7 @@ var whoTemplate = {
                             cell_no: "F11",
                             total: false,
                             name:
-                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities General Medical Practitioner"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Gen_General Medical Practitioner"
                         },
                         {
                             deuid: "BCjjT4Xujzu",
@@ -27667,7 +27668,7 @@ var whoTemplate = {
                             cell_no: "G11",
                             total: false,
                             name:
-                                "NHWA_total median earnings HWF General Medical Practitioner"
+                                "NHWA_total median earnings HWF Gen_General Medical Practitioner"
                         },
                         {
                             deuid: "oTcSBrUk1hs",
@@ -27675,7 +27676,7 @@ var whoTemplate = {
                             cell_no: "H11",
                             total: false,
                             name:
-                                "NHWA_median earnings of men HWF General Medical Practitioner"
+                                "NHWA_median earnings of men HWF Gen_General Medical Practitioner"
                         },
                         {
                             deuid: "kOWad32u5xr",
@@ -27683,7 +27684,7 @@ var whoTemplate = {
                             cell_no: "I11",
                             total: false,
                             name:
-                                "NHWA_median earnings of female HWF General Medical Practitioner"
+                                "NHWA_median earnings of female HWF Gen_General Medical Practitioner"
                         },
                         {
                             deuid: "FVANVRToxVF",
@@ -27691,7 +27692,7 @@ var whoTemplate = {
                             cell_no: "D12",
                             total: false,
                             name:
-                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities Specialist Medical Practitioner"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities Gen_Specialist Medical Practitioner"
                         },
                         {
                             deuid: "BOsqct4iCpa",
@@ -27699,7 +27700,7 @@ var whoTemplate = {
                             cell_no: "E12",
                             total: false,
                             name:
-                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities Specialist Medical Practitioner"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities Gen_Specialist Medical Practitioner"
                         },
                         {
                             deuid: "H6pdAoosHWN",
@@ -27707,7 +27708,7 @@ var whoTemplate = {
                             cell_no: "F12",
                             total: false,
                             name:
-                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Specialist Medical Practitioner"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Gen_Specialist Medical Practitioner"
                         },
                         {
                             deuid: "BCjjT4Xujzu",
@@ -27715,7 +27716,7 @@ var whoTemplate = {
                             cell_no: "G12",
                             total: false,
                             name:
-                                "NHWA_total median earnings HWF Specialist Medical Practitioner"
+                                "NHWA_total median earnings HWF Gen_Specialist Medical Practitioner"
                         },
                         {
                             deuid: "oTcSBrUk1hs",
@@ -27723,7 +27724,7 @@ var whoTemplate = {
                             cell_no: "H12",
                             total: false,
                             name:
-                                "NHWA_median earnings of men HWF Specialist Medical Practitioner"
+                                "NHWA_median earnings of men HWF Gen_Specialist Medical Practitioner"
                         },
                         {
                             deuid: "kOWad32u5xr",
@@ -27731,7 +27732,7 @@ var whoTemplate = {
                             cell_no: "I12",
                             total: false,
                             name:
-                                "NHWA_median earnings of female HWF Specialist Medical Practitioner"
+                                "NHWA_median earnings of female HWF Gen_Specialist Medical Practitioner"
                         },
                         {
                             deuid: "FVANVRToxVF",
@@ -27739,7 +27740,7 @@ var whoTemplate = {
                             cell_no: "D13",
                             total: false,
                             name:
-                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities Nursing Professional"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities Gen_Nursing Professional"
                         },
                         {
                             deuid: "BOsqct4iCpa",
@@ -27747,7 +27748,7 @@ var whoTemplate = {
                             cell_no: "E13",
                             total: false,
                             name:
-                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities Nursing Professional"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities Gen_Nursing Professional"
                         },
                         {
                             deuid: "H6pdAoosHWN",
@@ -27755,7 +27756,7 @@ var whoTemplate = {
                             cell_no: "F13",
                             total: false,
                             name:
-                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Nursing Professional"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Gen_Nursing Professional"
                         },
                         {
                             deuid: "BCjjT4Xujzu",
@@ -27763,7 +27764,7 @@ var whoTemplate = {
                             cell_no: "G13",
                             total: false,
                             name:
-                                "NHWA_total median earnings HWF Nursing Professional"
+                                "NHWA_total median earnings HWF Gen_Nursing Professional"
                         },
                         {
                             deuid: "oTcSBrUk1hs",
@@ -27771,7 +27772,7 @@ var whoTemplate = {
                             cell_no: "H13",
                             total: false,
                             name:
-                                "NHWA_median earnings of men HWF Nursing Professional"
+                                "NHWA_median earnings of men HWF Gen_Nursing Professional"
                         },
                         {
                             deuid: "kOWad32u5xr",
@@ -27779,7 +27780,7 @@ var whoTemplate = {
                             cell_no: "I13",
                             total: false,
                             name:
-                                "NHWA_median earnings of female HWF Nursing Professional"
+                                "NHWA_median earnings of female HWF Gen_Nursing Professional"
                         },
                         {
                             deuid: "FVANVRToxVF",
@@ -27787,7 +27788,7 @@ var whoTemplate = {
                             cell_no: "D14",
                             total: false,
                             name:
-                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities Midwifery Professional"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities Gen_Midwifery Professional"
                         },
                         {
                             deuid: "BOsqct4iCpa",
@@ -27795,7 +27796,7 @@ var whoTemplate = {
                             cell_no: "E14",
                             total: false,
                             name:
-                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities Midwifery Professional"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities Gen_Midwifery Professional"
                         },
                         {
                             deuid: "H6pdAoosHWN",
@@ -27803,7 +27804,7 @@ var whoTemplate = {
                             cell_no: "F14",
                             total: false,
                             name:
-                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Midwifery Professional"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Gen_Midwifery Professional"
                         },
                         {
                             deuid: "BCjjT4Xujzu",
@@ -27811,7 +27812,7 @@ var whoTemplate = {
                             cell_no: "G14",
                             total: false,
                             name:
-                                "NHWA_total median earnings HWF Midwifery Professional"
+                                "NHWA_total median earnings HWF Gen_Midwifery Professional"
                         },
                         {
                             deuid: "oTcSBrUk1hs",
@@ -27819,7 +27820,7 @@ var whoTemplate = {
                             cell_no: "H14",
                             total: false,
                             name:
-                                "NHWA_median earnings of men HWF Midwifery Professional"
+                                "NHWA_median earnings of men HWF Gen_Midwifery Professional"
                         },
                         {
                             deuid: "kOWad32u5xr",
@@ -27827,7 +27828,7 @@ var whoTemplate = {
                             cell_no: "I14",
                             total: false,
                             name:
-                                "NHWA_median earnings of female HWF Midwifery Professional"
+                                "NHWA_median earnings of female HWF Gen_Midwifery Professional"
                         },
                         {
                             deuid: "FVANVRToxVF",
@@ -27835,7 +27836,7 @@ var whoTemplate = {
                             cell_no: "D15",
                             total: false,
                             name:
-                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities Dentist"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities Gen_Dentist"
                         },
                         {
                             deuid: "BOsqct4iCpa",
@@ -27843,7 +27844,7 @@ var whoTemplate = {
                             cell_no: "E15",
                             total: false,
                             name:
-                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities Dentist"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities Gen_Dentist"
                         },
                         {
                             deuid: "H6pdAoosHWN",
@@ -27851,28 +27852,29 @@ var whoTemplate = {
                             cell_no: "F15",
                             total: false,
                             name:
-                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Dentist"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Gen_Dentist"
                         },
                         {
                             deuid: "BCjjT4Xujzu",
                             cocuid: "ALBRKpJsddQ",
                             cell_no: "G15",
                             total: false,
-                            name: "NHWA_total median earnings HWF Dentist"
+                            name: "NHWA_total median earnings HWF Gen_Dentist"
                         },
                         {
                             deuid: "oTcSBrUk1hs",
                             cocuid: "ALBRKpJsddQ",
                             cell_no: "H15",
                             total: false,
-                            name: "NHWA_median earnings of men HWF Dentist"
+                            name: "NHWA_median earnings of men HWF Gen_Dentist"
                         },
                         {
                             deuid: "kOWad32u5xr",
                             cocuid: "ALBRKpJsddQ",
                             cell_no: "I15",
                             total: false,
-                            name: "NHWA_median earnings of female HWF Dentist"
+                            name:
+                                "NHWA_median earnings of female HWF Gen_Dentist"
                         },
                         {
                             deuid: "FVANVRToxVF",
@@ -27880,7 +27882,7 @@ var whoTemplate = {
                             cell_no: "D16",
                             total: false,
                             name:
-                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities Pharmacist"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities Gen_Pharmacist"
                         },
                         {
                             deuid: "BOsqct4iCpa",
@@ -27888,7 +27890,7 @@ var whoTemplate = {
                             cell_no: "E16",
                             total: false,
                             name:
-                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities Pharmacist"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities Gen_Pharmacist"
                         },
                         {
                             deuid: "H6pdAoosHWN",
@@ -27896,21 +27898,23 @@ var whoTemplate = {
                             cell_no: "F16",
                             total: false,
                             name:
-                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Pharmacist"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Gen_Pharmacist"
                         },
                         {
                             deuid: "BCjjT4Xujzu",
                             cocuid: "iWRW6jXAzvP",
                             cell_no: "G16",
                             total: false,
-                            name: "NHWA_total median earnings HWF Pharmacist"
+                            name:
+                                "NHWA_total median earnings HWF Gen_Pharmacist"
                         },
                         {
                             deuid: "oTcSBrUk1hs",
                             cocuid: "iWRW6jXAzvP",
                             cell_no: "H16",
                             total: false,
-                            name: "NHWA_median earnings of men HWF Pharmacist"
+                            name:
+                                "NHWA_median earnings of men HWF Gen_Pharmacist"
                         },
                         {
                             deuid: "kOWad32u5xr",
@@ -27918,7 +27922,7 @@ var whoTemplate = {
                             cell_no: "I16",
                             total: false,
                             name:
-                                "NHWA_median earnings of female HWF Pharmacist"
+                                "NHWA_median earnings of female HWF Gen_Pharmacist"
                         },
                         {
                             deuid: "M7R7LVsXlAN",
