@@ -55,7 +55,7 @@ const yesPartialNoTab3 = getDataElements(
   "input.entrytrueonly"
 );
 
-const commentsTab3 = getDataElements("#tab2", ["F"], 8, "textarea.entryfield");
+const commentsTab3 = getDataElements("#tab2", ["F"], 18, "textarea.entryfield");
 
 const dataElementsTab3 = getDataElements("#tab2", ["D", "E", "F"], 8);
 

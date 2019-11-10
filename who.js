@@ -25532,7 +25532,7 @@ var whoTemplate = {
                         {
                             deuid: "aAuKVcYFTB8",
                             cocuid: "Xr12mI7VPn3",
-                            cell_no: "F8",
+                            cell_no: "F18",
                             total: false,
                             comment: true,
                             name:
