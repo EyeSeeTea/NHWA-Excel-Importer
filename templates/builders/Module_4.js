@@ -65,7 +65,7 @@ let dataElementsSheet3 = getDataElements("#tab2", ["D", "E", "F", "G"], 11);
 
 let sheet3 = {
     sheet_type: "AGGREGATE_STATIC",
-    sheet_no: 4,
+    sheet_no: 3,
     sheet_name: "Lifelong Learning",
     orgUnitIdScheme: "UID",
     dataElementIdScheme: "UID",
