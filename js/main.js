@@ -37,7 +37,8 @@ $(document).ready(function() {
         var htmlStr = "";
 
         if (isStartUpSuccessful) {
-            htmlStr += "<option disabled selected value> -- Select an option -- </option>";
+            htmlStr +=
+                "<option disabled selected value> -- Select an option -- </option>";
             for (var t = 0; t < templates.length; t++) {
                 htmlStr += "<option value='" + t + "'>";
                 htmlStr += templates[t].name;
@@ -208,9 +209,9 @@ function processExcelSheet() {
                         dataValue.categoryOptionCombo = ds.cocuid;
                         dataValue.orgUnit = orgUnit;
                         var tempValue = getCellData(sheet.sheet_no, ds.cell_no);
-                        if (tempValue != "" && !ds.total) {
+                        if (tempValue != "") {
                             dataValue.value = tempValue;
-			    if (ds.comment) dataValue.comment = tempValue;
+                            if (ds.comment) dataValue.comment = tempValue;
                             dataValues.push(dataValue);
                         }
                     }
@@ -229,7 +230,7 @@ function processExcelSheet() {
                             sheet.sheet_no,
                             ds.cell_no
                         );
-                        if (dataValue.value == "TRUE" && !ds.total) {
+                        if (dataValue.value == "TRUE") {
                             dataValue.value = "true";
                             dataValues.push(dataValue);
                         }
