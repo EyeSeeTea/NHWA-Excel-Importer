@@ -14785,25 +14785,8 @@ var whoTemplate = {
                         },
                         {
                             deuid: "tu2P5ALJRow",
-                            cocuid: "JMWzvzwgToC",
-                            cell_no: "D49",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Croatia"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "JMWzvzwgToC",
-                            cell_no: "E49",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Croatia"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
                             cocuid: "k8RfzK41pD4",
-                            cell_no: "D50",
+                            cell_no: "D49",
                             total: false,
                             comment: false,
                             name:
@@ -14812,11 +14795,28 @@ var whoTemplate = {
                         {
                             deuid: "Ni2b6zYWjjT",
                             cocuid: "k8RfzK41pD4",
-                            cell_no: "E50",
+                            cell_no: "E49",
                             total: false,
                             comment: false,
                             name:
                                 "NHWA_HWF_Foreign trained Nurses Gen_C\ufffdte d'Ivoire"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "JMWzvzwgToC",
+                            cell_no: "D50",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Croatia"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "JMWzvzwgToC",
+                            cell_no: "E50",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Croatia"
                         },
                         {
                             deuid: "tu2P5ALJRow",
@@ -15081,1864 +15081,8 @@ var whoTemplate = {
                         },
                         {
                             deuid: "tu2P5ALJRow",
-                            cocuid: "z5MSkYMyUDA",
-                            cell_no: "D66",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Ethiopia"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "z5MSkYMyUDA",
-                            cell_no: "E66",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Ethiopia"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "n1ptipI0iZU",
-                            cell_no: "D67",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Fiji"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "n1ptipI0iZU",
-                            cell_no: "E67",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Fiji"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "H9TZE490EpE",
-                            cell_no: "D68",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Finland"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "H9TZE490EpE",
-                            cell_no: "E68",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Finland"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "pqnXfUagaiY",
-                            cell_no: "D69",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_France"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "pqnXfUagaiY",
-                            cell_no: "E69",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_France"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "LRoVMRyVmrE",
-                            cell_no: "D70",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Gabon"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "LRoVMRyVmrE",
-                            cell_no: "E70",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Gabon"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "Z0aVan7vD82",
-                            cell_no: "D71",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Gambia"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "Z0aVan7vD82",
-                            cell_no: "E71",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Gambia"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "hPJQaP7PdYq",
-                            cell_no: "D72",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors NHWA_Georgia"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "hPJQaP7PdYq",
-                            cell_no: "E72",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses NHWA_Georgia"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "UTDBwK73RlG",
-                            cell_no: "D73",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Germany"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "UTDBwK73RlG",
-                            cell_no: "E73",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Germany"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "BE32i8A9IOr",
-                            cell_no: "D74",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Ghana"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "BE32i8A9IOr",
-                            cell_no: "E74",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Ghana"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "dplV0gzW0ea",
-                            cell_no: "D75",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Greece"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "dplV0gzW0ea",
-                            cell_no: "E75",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Greece"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "NojSG8rZDfq",
-                            cell_no: "D76",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Grenada"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "NojSG8rZDfq",
-                            cell_no: "E76",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Grenada"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "hjdFz4fLLzw",
-                            cell_no: "D77",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Guatemala"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "hjdFz4fLLzw",
-                            cell_no: "E77",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Nurses Gen_Guatemala"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "GKkncWAOs8H",
-                            cell_no: "D78",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Guinea"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "GKkncWAOs8H",
-                            cell_no: "E78",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Guinea"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "EPjTph0oE8r",
-                            cell_no: "D79",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Guinea-Bissau"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "EPjTph0oE8r",
-                            cell_no: "E79",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Nurses Gen_Guinea-Bissau"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "Zgk5mud8930",
-                            cell_no: "D80",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Guyana"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "Zgk5mud8930",
-                            cell_no: "E80",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Guyana"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "SlA9m2ZX9XS",
-                            cell_no: "D81",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Haiti"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "SlA9m2ZX9XS",
-                            cell_no: "E81",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Haiti"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "hIrci8ms28E",
-                            cell_no: "D82",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Honduras"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "hIrci8ms28E",
-                            cell_no: "E82",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Honduras"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "BKNhBq1RiwZ",
-                            cell_no: "D83",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Hungary"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "BKNhBq1RiwZ",
-                            cell_no: "E83",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Hungary"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "uNJCzPnnWNW",
-                            cell_no: "D84",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Iceland"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "uNJCzPnnWNW",
-                            cell_no: "E84",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Iceland"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "HvDcrobmiCy",
-                            cell_no: "D85",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_India"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "HvDcrobmiCy",
-                            cell_no: "E85",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_India"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "qdxpgnOUeam",
-                            cell_no: "D86",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Indonesia"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "qdxpgnOUeam",
-                            cell_no: "E86",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Nurses Gen_Indonesia"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "KvI6UnlCWE8",
-                            cell_no: "D87",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Iran (Islamic Republic of)"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "KvI6UnlCWE8",
-                            cell_no: "E87",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Nurses Gen_Iran (Islamic Republic of)"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "XW4cMFJ3IPd",
-                            cell_no: "D88",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Iraq"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "XW4cMFJ3IPd",
-                            cell_no: "E88",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Iraq"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "enrjtKkx6PG",
-                            cell_no: "D89",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Ireland"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "enrjtKkx6PG",
-                            cell_no: "E89",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Ireland"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "JrSwky5tYzt",
-                            cell_no: "D90",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Israel"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "JrSwky5tYzt",
-                            cell_no: "E90",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Israel"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "A8ZYkf5BTQ1",
-                            cell_no: "D91",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Italy"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "A8ZYkf5BTQ1",
-                            cell_no: "E91",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Italy"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "IArireTHAtu",
-                            cell_no: "D92",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Jamaica"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "IArireTHAtu",
-                            cell_no: "E92",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Jamaica"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "poDz4wDp6J0",
-                            cell_no: "D93",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Japan"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "poDz4wDp6J0",
-                            cell_no: "E93",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Japan"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "z8JPjc7MYwc",
-                            cell_no: "D94",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Jordan"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "z8JPjc7MYwc",
-                            cell_no: "E94",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Jordan"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "fAb4itKc1ZM",
-                            cell_no: "D95",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Kazakhstan"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "fAb4itKc1ZM",
-                            cell_no: "E95",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Nurses Gen_Kazakhstan"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "nHiJwDVwoBi",
-                            cell_no: "D96",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Kenya"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "nHiJwDVwoBi",
-                            cell_no: "E96",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Kenya"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "DSefi5x6sWB",
-                            cell_no: "D97",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Kiribati"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "DSefi5x6sWB",
-                            cell_no: "E97",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Kiribati"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "QUXnEwBKOCt",
-                            cell_no: "D98",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Kuwait"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "QUXnEwBKOCt",
-                            cell_no: "E98",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Kuwait"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "XxT1SCRuVDD",
-                            cell_no: "D99",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Kyrgyzstan"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "XxT1SCRuVDD",
-                            cell_no: "E99",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Nurses Gen_Kyrgyzstan"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "EugP2KVsM7Q",
-                            cell_no: "D100",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Lao People's Democratic Republic"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "EugP2KVsM7Q",
-                            cell_no: "E100",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Nurses Gen_Lao People's Democratic Republic"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "QUUTx1RNwpi",
-                            cell_no: "D101",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Latvia"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "QUUTx1RNwpi",
-                            cell_no: "E101",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Latvia"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "CqGT5VjDx2p",
-                            cell_no: "D102",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Lebanon"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "CqGT5VjDx2p",
-                            cell_no: "E102",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Lebanon"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "aoq4jeGV5NM",
-                            cell_no: "D103",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Lesotho"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "aoq4jeGV5NM",
-                            cell_no: "E103",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Lesotho"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "JPBLCDK3H2x",
-                            cell_no: "D104",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Liberia"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "JPBLCDK3H2x",
-                            cell_no: "E104",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Liberia"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "efCfb5edDjv",
-                            cell_no: "D105",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Libya"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "efCfb5edDjv",
-                            cell_no: "E105",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Libya"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "DOa51SvSShy",
-                            cell_no: "D106",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Lithuania"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "DOa51SvSShy",
-                            cell_no: "E106",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Nurses Gen_Lithuania"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "LE4fsk3RYza",
-                            cell_no: "D107",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Luxembourg"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "LE4fsk3RYza",
-                            cell_no: "E107",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Nurses Gen_Luxembourg"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "zg6B0qb5NY3",
-                            cell_no: "D108",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Madagascar"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "zg6B0qb5NY3",
-                            cell_no: "E108",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Nurses Gen_Madagascar"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "ZO5braqROk6",
-                            cell_no: "D109",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Malawi"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "ZO5braqROk6",
-                            cell_no: "E109",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Malawi"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "Mv3kaUwZXRq",
-                            cell_no: "D110",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Malaysia"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "Mv3kaUwZXRq",
-                            cell_no: "E110",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Malaysia"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "Ak4QGxirDXg",
-                            cell_no: "D111",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Maldives"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "Ak4QGxirDXg",
-                            cell_no: "E111",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Maldives"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "dAREsnanSp5",
-                            cell_no: "D112",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Mali"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "dAREsnanSp5",
-                            cell_no: "E112",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Mali"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "GVeTUYRwWNF",
-                            cell_no: "D113",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Malta"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "GVeTUYRwWNF",
-                            cell_no: "E113",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Malta"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "gvFoQrCkLc2",
-                            cell_no: "D114",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Marshall Islands"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "gvFoQrCkLc2",
-                            cell_no: "E114",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Nurses Gen_Marshall Islands"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "uNIgpV4l21k",
-                            cell_no: "D115",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Mauritania"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "uNIgpV4l21k",
-                            cell_no: "E115",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Nurses Gen_Mauritania"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "LkiHwqqYnxV",
-                            cell_no: "D116",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Mauritius"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "LkiHwqqYnxV",
-                            cell_no: "E116",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Nurses Gen_Mauritius"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "kYO6lFqgkUO",
-                            cell_no: "D117",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Mexico"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "kYO6lFqgkUO",
-                            cell_no: "E117",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Mexico"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "LddbYuuaWf7",
-                            cell_no: "D118",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Micronesia (Federated States of)"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "LddbYuuaWf7",
-                            cell_no: "E118",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Nurses Gen_Micronesia (Federated States of)"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "GC5rlUksCqm",
-                            cell_no: "D119",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Monaco"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "GC5rlUksCqm",
-                            cell_no: "E119",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Monaco"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "feoDuRjZweV",
-                            cell_no: "D120",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Mongolia"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "feoDuRjZweV",
-                            cell_no: "E120",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Mongolia"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "blA5KNE6nZO",
-                            cell_no: "D121",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Montenegro"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "blA5KNE6nZO",
-                            cell_no: "E121",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Nurses Gen_Montenegro"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "qfXgWkacWGi",
-                            cell_no: "D122",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Morocco"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "qfXgWkacWGi",
-                            cell_no: "E122",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Morocco"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "pbip5m1yf5Y",
-                            cell_no: "D123",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Mozambique"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "pbip5m1yf5Y",
-                            cell_no: "E123",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Nurses Gen_Mozambique"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "RsBAd46LBnm",
-                            cell_no: "D124",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Myanmar"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "RsBAd46LBnm",
-                            cell_no: "E124",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Myanmar"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "sHcFoPbjSrP",
-                            cell_no: "D125",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Namibia"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "sHcFoPbjSrP",
-                            cell_no: "E125",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Namibia"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "xsXII0TZ5TD",
-                            cell_no: "D126",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Nauru"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "xsXII0TZ5TD",
-                            cell_no: "E126",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Nauru"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "QhZPfMYBla6",
-                            cell_no: "D127",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Nepal"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "QhZPfMYBla6",
-                            cell_no: "E127",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Nepal"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "SZ3nIBbJDHd",
-                            cell_no: "D128",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Netherlands"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "SZ3nIBbJDHd",
-                            cell_no: "E128",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Nurses Gen_Netherlands"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "IGq57K2U3et",
-                            cell_no: "D129",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_New Zealand"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "IGq57K2U3et",
-                            cell_no: "E129",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Nurses Gen_New Zealand"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "qV0jUJzFUER",
-                            cell_no: "D130",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Nicaragua"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "qV0jUJzFUER",
-                            cell_no: "E130",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Nurses Gen_Nicaragua"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "Wl6fGTpQ2aN",
-                            cell_no: "D131",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors NHWA_Niger"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "Wl6fGTpQ2aN",
-                            cell_no: "E131",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses NHWA_Niger"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "EDPtZbCSShb",
-                            cell_no: "D132",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Nigeria"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "EDPtZbCSShb",
-                            cell_no: "E132",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Nigeria"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "Jx6oc5hMVvO",
-                            cell_no: "D133",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Niue"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "Jx6oc5hMVvO",
-                            cell_no: "E133",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Niue"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "a2xwzp8oVHw",
-                            cell_no: "D134",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Norway"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "a2xwzp8oVHw",
-                            cell_no: "E134",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Norway"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "gsbHTvgB2ve",
-                            cell_no: "D135",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Oman"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "gsbHTvgB2ve",
-                            cell_no: "E135",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Oman"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "jhV8D0Dvbvz",
-                            cell_no: "D136",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Pakistan"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "jhV8D0Dvbvz",
-                            cell_no: "E136",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Pakistan"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "RJERO5G7Od7",
-                            cell_no: "D137",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Palau"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "RJERO5G7Od7",
-                            cell_no: "E137",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Palau"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "JRUk55kvbrE",
-                            cell_no: "D138",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Panama"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "JRUk55kvbrE",
-                            cell_no: "E138",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Panama"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "AGWxyqGhgfk",
-                            cell_no: "D139",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Papua New Guinea"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "AGWxyqGhgfk",
-                            cell_no: "E139",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Nurses Gen_Papua New Guinea"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "b6rUObqK3w6",
-                            cell_no: "D140",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Paraguay"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "b6rUObqK3w6",
-                            cell_no: "E140",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Paraguay"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "Y8Hqecy92p5",
-                            cell_no: "D141",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors NHWA_Peru"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "Y8Hqecy92p5",
-                            cell_no: "E141",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses NHWA_Peru"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "dyBI6HTR04N",
-                            cell_no: "D142",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Philippines"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "dyBI6HTR04N",
-                            cell_no: "E142",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Nurses Gen_Philippines"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "Vlqc8aT5PAo",
-                            cell_no: "D143",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Poland"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "Vlqc8aT5PAo",
-                            cell_no: "E143",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Poland"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "gxepwyvRxbV",
-                            cell_no: "D144",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Portugal"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "gxepwyvRxbV",
-                            cell_no: "E144",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Portugal"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "ZmHQN5npDGX",
-                            cell_no: "D145",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Qatar"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "ZmHQN5npDGX",
-                            cell_no: "E145",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Qatar"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "fPDuFoFWUr3",
-                            cell_no: "D146",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Republic of Korea"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "fPDuFoFWUr3",
-                            cell_no: "E146",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Nurses Gen_Republic of Korea"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "Ua4F7QDEr8y",
-                            cell_no: "D147",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Republic of Moldova"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "Ua4F7QDEr8y",
-                            cell_no: "E147",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Nurses Gen_Republic of Moldova"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "x01fgjhSf20",
-                            cell_no: "D148",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors NHWA_Romania"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "x01fgjhSf20",
-                            cell_no: "E148",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses NHWA_Romania"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "HankECMMB6D",
-                            cell_no: "D149",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Russian Federation"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "HankECMMB6D",
-                            cell_no: "E149",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Nurses Gen_Russian Federation"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "ZqdYTyLLuyL",
-                            cell_no: "D150",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Rwanda"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "ZqdYTyLLuyL",
-                            cell_no: "E150",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Rwanda"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "A7vlGlMOCQi",
-                            cell_no: "D151",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Saint Kitts and Nevis"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "A7vlGlMOCQi",
-                            cell_no: "E151",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Nurses Gen_Saint Kitts and Nevis"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "Kr3g14QtHqR",
-                            cell_no: "D152",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Saint Lucia"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "Kr3g14QtHqR",
-                            cell_no: "E152",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Nurses Gen_Saint Lucia"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "Agh3IhNPIxF",
-                            cell_no: "D153",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Saint Vincent and the Grenadines"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "Agh3IhNPIxF",
-                            cell_no: "E153",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Nurses Gen_Saint Vincent and the Grenadines"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "X2GCXVmZeEF",
-                            cell_no: "D154",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Samoa"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "X2GCXVmZeEF",
-                            cell_no: "E154",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Samoa"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "q4n8NzDkE7D",
-                            cell_no: "D155",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_San Marino"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "q4n8NzDkE7D",
-                            cell_no: "E155",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Nurses Gen_San Marino"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "rdiq6QPpJC7",
-                            cell_no: "D156",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Sao Tome and Principe"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "rdiq6QPpJC7",
-                            cell_no: "E156",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Nurses Gen_Sao Tome and Principe"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "npSh7oFwczs",
-                            cell_no: "D157",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Saudi Arabia"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "npSh7oFwczs",
-                            cell_no: "E157",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Nurses Gen_Saudi Arabia"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "hsNootK2YBV",
-                            cell_no: "D158",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Senegal"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "hsNootK2YBV",
-                            cell_no: "E158",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Senegal"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "WtrglwVLwRf",
-                            cell_no: "D159",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Serbia"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "WtrglwVLwRf",
-                            cell_no: "E159",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Serbia"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "ANELZaDsI6L",
-                            cell_no: "D160",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Seychelles"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "ANELZaDsI6L",
-                            cell_no: "E160",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Nurses Gen_Seychelles"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "GZTChYSePoP",
-                            cell_no: "D161",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors NHWA_Sierra Leone"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "GZTChYSePoP",
-                            cell_no: "E161",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Nurses NHWA_Sierra Leone"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "GSwM6L4ZPsB",
-                            cell_no: "D162",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors NHWA_Singapore"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "GSwM6L4ZPsB",
-                            cell_no: "E162",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Nurses NHWA_Singapore"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "dkORIS1sEMv",
-                            cell_no: "D163",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Slovakia"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "dkORIS1sEMv",
-                            cell_no: "E163",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Slovakia"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "St1b2AfFxLb",
-                            cell_no: "D164",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Slovenia"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "St1b2AfFxLb",
-                            cell_no: "E164",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Slovenia"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "J1xdPkLQqgn",
-                            cell_no: "D165",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Solomon Islands"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "J1xdPkLQqgn",
-                            cell_no: "E165",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Nurses Gen_Solomon Islands"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "f2XAafiQede",
-                            cell_no: "D166",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Somalia"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "f2XAafiQede",
-                            cell_no: "E166",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Somalia"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "tsd2otYofQa",
-                            cell_no: "D167",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_South Africa"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "tsd2otYofQa",
-                            cell_no: "E167",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Nurses Gen_South Africa"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "ESi2uY4Gqn1",
-                            cell_no: "D168",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_South Sudan"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "ESi2uY4Gqn1",
-                            cell_no: "E168",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Nurses Gen_South Sudan"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "lh9mjPVQgUs",
-                            cell_no: "D169",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Spain"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "lh9mjPVQgUs",
-                            cell_no: "E169",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Spain"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "ysEbNJwwJUO",
-                            cell_no: "D170",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Sri Lanka"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "ysEbNJwwJUO",
-                            cell_no: "E170",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Nurses Gen_Sri Lanka"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "slhvGcmFwtM",
-                            cell_no: "D171",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Sudan"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "slhvGcmFwtM",
-                            cell_no: "E171",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Sudan"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
-                            cocuid: "ibxHVF1IOea",
-                            cell_no: "D172",
-                            total: false,
-                            comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Suriname"
-                        },
-                        {
-                            deuid: "Ni2b6zYWjjT",
-                            cocuid: "ibxHVF1IOea",
-                            cell_no: "E172",
-                            total: false,
-                            comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Suriname"
-                        },
-                        {
-                            deuid: "tu2P5ALJRow",
                             cocuid: "cEeWRyOhOqP",
-                            cell_no: "D173",
+                            cell_no: "D66",
                             total: false,
                             comment: false,
                             name:
@@ -16947,7 +15091,7 @@ var whoTemplate = {
                         {
                             deuid: "Ni2b6zYWjjT",
                             cocuid: "cEeWRyOhOqP",
-                            cell_no: "E173",
+                            cell_no: "E66",
                             total: false,
                             comment: false,
                             name:
@@ -16955,96 +15099,1183 @@ var whoTemplate = {
                         },
                         {
                             deuid: "tu2P5ALJRow",
-                            cocuid: "rgozN0dmixB",
-                            cell_no: "D174",
+                            cocuid: "z5MSkYMyUDA",
+                            cell_no: "D67",
                             total: false,
                             comment: false,
                             name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Sweden"
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Ethiopia"
                         },
                         {
                             deuid: "Ni2b6zYWjjT",
-                            cocuid: "rgozN0dmixB",
-                            cell_no: "E174",
+                            cocuid: "z5MSkYMyUDA",
+                            cell_no: "E67",
                             total: false,
                             comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Sweden"
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Ethiopia"
                         },
                         {
                             deuid: "tu2P5ALJRow",
-                            cocuid: "Kh9ikyodKnN",
-                            cell_no: "D175",
+                            cocuid: "n1ptipI0iZU",
+                            cell_no: "D68",
                             total: false,
                             comment: false,
                             name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Switzerland"
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Fiji"
                         },
                         {
                             deuid: "Ni2b6zYWjjT",
-                            cocuid: "Kh9ikyodKnN",
-                            cell_no: "E175",
+                            cocuid: "n1ptipI0iZU",
+                            cell_no: "E68",
                             total: false,
                             comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Nurses Gen_Switzerland"
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Fiji"
                         },
                         {
                             deuid: "tu2P5ALJRow",
-                            cocuid: "KioZypAqUxc",
-                            cell_no: "D176",
+                            cocuid: "H9TZE490EpE",
+                            cell_no: "D69",
                             total: false,
                             comment: false,
                             name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Syrian Arab Republic"
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Finland"
                         },
                         {
                             deuid: "Ni2b6zYWjjT",
-                            cocuid: "KioZypAqUxc",
-                            cell_no: "E176",
+                            cocuid: "H9TZE490EpE",
+                            cell_no: "E69",
                             total: false,
                             comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Nurses Gen_Syrian Arab Republic"
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Finland"
                         },
                         {
                             deuid: "tu2P5ALJRow",
-                            cocuid: "ES9xDNLOKtZ",
-                            cell_no: "D177",
+                            cocuid: "pqnXfUagaiY",
+                            cell_no: "D70",
                             total: false,
                             comment: false,
                             name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Tajikistan"
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_France"
                         },
                         {
                             deuid: "Ni2b6zYWjjT",
-                            cocuid: "ES9xDNLOKtZ",
-                            cell_no: "E177",
+                            cocuid: "pqnXfUagaiY",
+                            cell_no: "E70",
                             total: false,
                             comment: false,
-                            name:
-                                "NHWA_HWF_Foreign trained Nurses Gen_Tajikistan"
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_France"
                         },
                         {
                             deuid: "tu2P5ALJRow",
-                            cocuid: "jfXGOQwsmKq",
-                            cell_no: "D178",
+                            cocuid: "LRoVMRyVmrE",
+                            cell_no: "D71",
                             total: false,
                             comment: false,
                             name:
-                                "NHWA_HWF_Foreign trained Medical doctors Gen_Thailand"
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Gabon"
                         },
                         {
                             deuid: "Ni2b6zYWjjT",
-                            cocuid: "jfXGOQwsmKq",
-                            cell_no: "E178",
+                            cocuid: "LRoVMRyVmrE",
+                            cell_no: "E71",
                             total: false,
                             comment: false,
-                            name: "NHWA_HWF_Foreign trained Nurses Gen_Thailand"
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Gabon"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "Z0aVan7vD82",
+                            cell_no: "D72",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Gambia"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "Z0aVan7vD82",
+                            cell_no: "E72",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Gambia"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "hPJQaP7PdYq",
+                            cell_no: "D73",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors NHWA_Georgia"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "hPJQaP7PdYq",
+                            cell_no: "E73",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses NHWA_Georgia"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "UTDBwK73RlG",
+                            cell_no: "D74",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Germany"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "UTDBwK73RlG",
+                            cell_no: "E74",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Germany"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "BE32i8A9IOr",
+                            cell_no: "D75",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Ghana"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "BE32i8A9IOr",
+                            cell_no: "E75",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Ghana"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "dplV0gzW0ea",
+                            cell_no: "D76",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Greece"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "dplV0gzW0ea",
+                            cell_no: "E76",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Greece"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "NojSG8rZDfq",
+                            cell_no: "D77",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Grenada"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "NojSG8rZDfq",
+                            cell_no: "E77",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Grenada"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "hjdFz4fLLzw",
+                            cell_no: "D78",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Guatemala"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "hjdFz4fLLzw",
+                            cell_no: "E78",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Nurses Gen_Guatemala"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "GKkncWAOs8H",
+                            cell_no: "D79",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Guinea"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "GKkncWAOs8H",
+                            cell_no: "E79",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Guinea"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "EPjTph0oE8r",
+                            cell_no: "D80",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Guinea-Bissau"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "EPjTph0oE8r",
+                            cell_no: "E80",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Nurses Gen_Guinea-Bissau"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "Zgk5mud8930",
+                            cell_no: "D81",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Guyana"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "Zgk5mud8930",
+                            cell_no: "E81",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Guyana"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "SlA9m2ZX9XS",
+                            cell_no: "D82",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Haiti"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "SlA9m2ZX9XS",
+                            cell_no: "E82",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Haiti"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "hIrci8ms28E",
+                            cell_no: "D83",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Honduras"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "hIrci8ms28E",
+                            cell_no: "E83",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Honduras"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "BKNhBq1RiwZ",
+                            cell_no: "D84",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Hungary"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "BKNhBq1RiwZ",
+                            cell_no: "E84",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Hungary"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "uNJCzPnnWNW",
+                            cell_no: "D85",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Iceland"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "uNJCzPnnWNW",
+                            cell_no: "E85",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Iceland"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "HvDcrobmiCy",
+                            cell_no: "D86",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_India"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "HvDcrobmiCy",
+                            cell_no: "E86",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_India"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "qdxpgnOUeam",
+                            cell_no: "D87",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Indonesia"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "qdxpgnOUeam",
+                            cell_no: "E87",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Nurses Gen_Indonesia"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "KvI6UnlCWE8",
+                            cell_no: "D88",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Iran (Islamic Republic of)"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "KvI6UnlCWE8",
+                            cell_no: "E88",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Nurses Gen_Iran (Islamic Republic of)"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "XW4cMFJ3IPd",
+                            cell_no: "D89",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Iraq"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "XW4cMFJ3IPd",
+                            cell_no: "E89",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Iraq"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "enrjtKkx6PG",
+                            cell_no: "D90",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Ireland"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "enrjtKkx6PG",
+                            cell_no: "E90",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Ireland"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "JrSwky5tYzt",
+                            cell_no: "D91",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Israel"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "JrSwky5tYzt",
+                            cell_no: "E91",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Israel"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "A8ZYkf5BTQ1",
+                            cell_no: "D92",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Italy"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "A8ZYkf5BTQ1",
+                            cell_no: "E92",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Italy"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "IArireTHAtu",
+                            cell_no: "D93",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Jamaica"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "IArireTHAtu",
+                            cell_no: "E93",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Jamaica"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "poDz4wDp6J0",
+                            cell_no: "D94",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Japan"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "poDz4wDp6J0",
+                            cell_no: "E94",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Japan"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "z8JPjc7MYwc",
+                            cell_no: "D95",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Jordan"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "z8JPjc7MYwc",
+                            cell_no: "E95",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Jordan"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "fAb4itKc1ZM",
+                            cell_no: "D96",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Kazakhstan"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "fAb4itKc1ZM",
+                            cell_no: "E96",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Nurses Gen_Kazakhstan"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "nHiJwDVwoBi",
+                            cell_no: "D97",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Kenya"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "nHiJwDVwoBi",
+                            cell_no: "E97",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Kenya"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "DSefi5x6sWB",
+                            cell_no: "D98",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Kiribati"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "DSefi5x6sWB",
+                            cell_no: "E98",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Kiribati"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "QUXnEwBKOCt",
+                            cell_no: "D99",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Kuwait"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "QUXnEwBKOCt",
+                            cell_no: "E99",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Kuwait"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "XxT1SCRuVDD",
+                            cell_no: "D100",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Kyrgyzstan"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "XxT1SCRuVDD",
+                            cell_no: "E100",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Nurses Gen_Kyrgyzstan"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "EugP2KVsM7Q",
+                            cell_no: "D101",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Lao People's Democratic Republic"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "EugP2KVsM7Q",
+                            cell_no: "E101",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Nurses Gen_Lao People's Democratic Republic"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "QUUTx1RNwpi",
+                            cell_no: "D102",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Latvia"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "QUUTx1RNwpi",
+                            cell_no: "E102",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Latvia"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "CqGT5VjDx2p",
+                            cell_no: "D103",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Lebanon"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "CqGT5VjDx2p",
+                            cell_no: "E103",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Lebanon"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "aoq4jeGV5NM",
+                            cell_no: "D104",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Lesotho"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "aoq4jeGV5NM",
+                            cell_no: "E104",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Lesotho"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "JPBLCDK3H2x",
+                            cell_no: "D105",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Liberia"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "JPBLCDK3H2x",
+                            cell_no: "E105",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Liberia"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "efCfb5edDjv",
+                            cell_no: "D106",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Libya"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "efCfb5edDjv",
+                            cell_no: "E106",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Libya"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "DOa51SvSShy",
+                            cell_no: "D107",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Lithuania"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "DOa51SvSShy",
+                            cell_no: "E107",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Nurses Gen_Lithuania"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "LE4fsk3RYza",
+                            cell_no: "D108",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Luxembourg"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "LE4fsk3RYza",
+                            cell_no: "E108",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Nurses Gen_Luxembourg"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "zg6B0qb5NY3",
+                            cell_no: "D109",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Madagascar"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "zg6B0qb5NY3",
+                            cell_no: "E109",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Nurses Gen_Madagascar"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "ZO5braqROk6",
+                            cell_no: "D110",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Malawi"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "ZO5braqROk6",
+                            cell_no: "E110",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Malawi"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "Mv3kaUwZXRq",
+                            cell_no: "D111",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Malaysia"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "Mv3kaUwZXRq",
+                            cell_no: "E111",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Malaysia"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "Ak4QGxirDXg",
+                            cell_no: "D112",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Maldives"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "Ak4QGxirDXg",
+                            cell_no: "E112",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Maldives"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "dAREsnanSp5",
+                            cell_no: "D113",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Mali"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "dAREsnanSp5",
+                            cell_no: "E113",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Mali"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "GVeTUYRwWNF",
+                            cell_no: "D114",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Malta"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "GVeTUYRwWNF",
+                            cell_no: "E114",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Malta"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "gvFoQrCkLc2",
+                            cell_no: "D115",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Marshall Islands"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "gvFoQrCkLc2",
+                            cell_no: "E115",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Nurses Gen_Marshall Islands"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "uNIgpV4l21k",
+                            cell_no: "D116",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Mauritania"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "uNIgpV4l21k",
+                            cell_no: "E116",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Nurses Gen_Mauritania"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "LkiHwqqYnxV",
+                            cell_no: "D117",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Mauritius"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "LkiHwqqYnxV",
+                            cell_no: "E117",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Nurses Gen_Mauritius"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "kYO6lFqgkUO",
+                            cell_no: "D118",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Mexico"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "kYO6lFqgkUO",
+                            cell_no: "E118",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Mexico"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "LddbYuuaWf7",
+                            cell_no: "D119",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Micronesia (Federated States of)"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "LddbYuuaWf7",
+                            cell_no: "E119",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Nurses Gen_Micronesia (Federated States of)"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "GC5rlUksCqm",
+                            cell_no: "D120",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Monaco"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "GC5rlUksCqm",
+                            cell_no: "E120",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Monaco"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "feoDuRjZweV",
+                            cell_no: "D121",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Mongolia"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "feoDuRjZweV",
+                            cell_no: "E121",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Mongolia"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "blA5KNE6nZO",
+                            cell_no: "D122",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Montenegro"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "blA5KNE6nZO",
+                            cell_no: "E122",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Nurses Gen_Montenegro"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "qfXgWkacWGi",
+                            cell_no: "D123",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Morocco"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "qfXgWkacWGi",
+                            cell_no: "E123",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Morocco"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "pbip5m1yf5Y",
+                            cell_no: "D124",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Mozambique"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "pbip5m1yf5Y",
+                            cell_no: "E124",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Nurses Gen_Mozambique"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "RsBAd46LBnm",
+                            cell_no: "D125",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Myanmar"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "RsBAd46LBnm",
+                            cell_no: "E125",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Myanmar"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "sHcFoPbjSrP",
+                            cell_no: "D126",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Namibia"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "sHcFoPbjSrP",
+                            cell_no: "E126",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Namibia"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "xsXII0TZ5TD",
+                            cell_no: "D127",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Nauru"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "xsXII0TZ5TD",
+                            cell_no: "E127",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Nauru"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "QhZPfMYBla6",
+                            cell_no: "D128",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Nepal"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "QhZPfMYBla6",
+                            cell_no: "E128",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Nepal"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "SZ3nIBbJDHd",
+                            cell_no: "D129",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Netherlands"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "SZ3nIBbJDHd",
+                            cell_no: "E129",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Nurses Gen_Netherlands"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "IGq57K2U3et",
+                            cell_no: "D130",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_New Zealand"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "IGq57K2U3et",
+                            cell_no: "E130",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Nurses Gen_New Zealand"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "qV0jUJzFUER",
+                            cell_no: "D131",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Nicaragua"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "qV0jUJzFUER",
+                            cell_no: "E131",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Nurses Gen_Nicaragua"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "Wl6fGTpQ2aN",
+                            cell_no: "D132",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors NHWA_Niger"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "Wl6fGTpQ2aN",
+                            cell_no: "E132",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses NHWA_Niger"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "EDPtZbCSShb",
+                            cell_no: "D133",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Nigeria"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "EDPtZbCSShb",
+                            cell_no: "E133",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Nigeria"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "Jx6oc5hMVvO",
+                            cell_no: "D134",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Niue"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "Jx6oc5hMVvO",
+                            cell_no: "E134",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Niue"
                         },
                         {
                             deuid: "tu2P5ALJRow",
                             cocuid: "MFwYpsgHToP",
-                            cell_no: "D179",
+                            cell_no: "D135",
                             total: false,
                             comment: false,
                             name:
@@ -17053,11 +16284,780 @@ var whoTemplate = {
                         {
                             deuid: "Ni2b6zYWjjT",
                             cocuid: "MFwYpsgHToP",
-                            cell_no: "E179",
+                            cell_no: "E135",
                             total: false,
                             comment: false,
                             name:
                                 "NHWA_HWF_Foreign trained Nurses Gen_The former Yugoslav republic of Macedonia"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "a2xwzp8oVHw",
+                            cell_no: "D136",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Norway"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "a2xwzp8oVHw",
+                            cell_no: "E136",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Norway"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "gsbHTvgB2ve",
+                            cell_no: "D137",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Oman"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "gsbHTvgB2ve",
+                            cell_no: "E137",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Oman"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "jhV8D0Dvbvz",
+                            cell_no: "D138",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Pakistan"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "jhV8D0Dvbvz",
+                            cell_no: "E138",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Pakistan"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "RJERO5G7Od7",
+                            cell_no: "D139",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Palau"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "RJERO5G7Od7",
+                            cell_no: "E139",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Palau"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "JRUk55kvbrE",
+                            cell_no: "D140",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Panama"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "JRUk55kvbrE",
+                            cell_no: "E140",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Panama"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "AGWxyqGhgfk",
+                            cell_no: "D141",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Papua New Guinea"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "AGWxyqGhgfk",
+                            cell_no: "E141",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Nurses Gen_Papua New Guinea"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "b6rUObqK3w6",
+                            cell_no: "D142",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Paraguay"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "b6rUObqK3w6",
+                            cell_no: "E142",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Paraguay"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "Y8Hqecy92p5",
+                            cell_no: "D143",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors NHWA_Peru"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "Y8Hqecy92p5",
+                            cell_no: "E143",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses NHWA_Peru"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "dyBI6HTR04N",
+                            cell_no: "D144",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Philippines"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "dyBI6HTR04N",
+                            cell_no: "E144",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Nurses Gen_Philippines"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "Vlqc8aT5PAo",
+                            cell_no: "D145",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Poland"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "Vlqc8aT5PAo",
+                            cell_no: "E145",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Poland"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "gxepwyvRxbV",
+                            cell_no: "D146",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Portugal"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "gxepwyvRxbV",
+                            cell_no: "E146",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Portugal"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "ZmHQN5npDGX",
+                            cell_no: "D147",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Qatar"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "ZmHQN5npDGX",
+                            cell_no: "E147",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Qatar"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "fPDuFoFWUr3",
+                            cell_no: "D148",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Republic of Korea"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "fPDuFoFWUr3",
+                            cell_no: "E148",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Nurses Gen_Republic of Korea"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "Ua4F7QDEr8y",
+                            cell_no: "D149",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Republic of Moldova"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "Ua4F7QDEr8y",
+                            cell_no: "E149",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Nurses Gen_Republic of Moldova"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "x01fgjhSf20",
+                            cell_no: "D150",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors NHWA_Romania"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "x01fgjhSf20",
+                            cell_no: "E150",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses NHWA_Romania"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "HankECMMB6D",
+                            cell_no: "D151",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Russian Federation"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "HankECMMB6D",
+                            cell_no: "E151",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Nurses Gen_Russian Federation"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "ZqdYTyLLuyL",
+                            cell_no: "D152",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Rwanda"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "ZqdYTyLLuyL",
+                            cell_no: "E152",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Rwanda"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "A7vlGlMOCQi",
+                            cell_no: "D153",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Saint Kitts and Nevis"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "A7vlGlMOCQi",
+                            cell_no: "E153",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Nurses Gen_Saint Kitts and Nevis"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "Kr3g14QtHqR",
+                            cell_no: "D154",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Saint Lucia"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "Kr3g14QtHqR",
+                            cell_no: "E154",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Nurses Gen_Saint Lucia"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "Agh3IhNPIxF",
+                            cell_no: "D155",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Saint Vincent and the Grenadines"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "Agh3IhNPIxF",
+                            cell_no: "E155",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Nurses Gen_Saint Vincent and the Grenadines"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "X2GCXVmZeEF",
+                            cell_no: "D156",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Samoa"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "X2GCXVmZeEF",
+                            cell_no: "E156",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Samoa"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "q4n8NzDkE7D",
+                            cell_no: "D157",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_San Marino"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "q4n8NzDkE7D",
+                            cell_no: "E157",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Nurses Gen_San Marino"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "rdiq6QPpJC7",
+                            cell_no: "D158",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Sao Tome and Principe"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "rdiq6QPpJC7",
+                            cell_no: "E158",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Nurses Gen_Sao Tome and Principe"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "npSh7oFwczs",
+                            cell_no: "D159",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Saudi Arabia"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "npSh7oFwczs",
+                            cell_no: "E159",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Nurses Gen_Saudi Arabia"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "hsNootK2YBV",
+                            cell_no: "D160",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Senegal"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "hsNootK2YBV",
+                            cell_no: "E160",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Senegal"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "WtrglwVLwRf",
+                            cell_no: "D161",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Serbia"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "WtrglwVLwRf",
+                            cell_no: "E161",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Serbia"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "ANELZaDsI6L",
+                            cell_no: "D162",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Seychelles"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "ANELZaDsI6L",
+                            cell_no: "E162",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Nurses Gen_Seychelles"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "GZTChYSePoP",
+                            cell_no: "D163",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors NHWA_Sierra Leone"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "GZTChYSePoP",
+                            cell_no: "E163",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Nurses NHWA_Sierra Leone"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "GSwM6L4ZPsB",
+                            cell_no: "D164",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors NHWA_Singapore"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "GSwM6L4ZPsB",
+                            cell_no: "E164",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Nurses NHWA_Singapore"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "dkORIS1sEMv",
+                            cell_no: "D165",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Slovakia"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "dkORIS1sEMv",
+                            cell_no: "E165",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Slovakia"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "St1b2AfFxLb",
+                            cell_no: "D166",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Slovenia"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "St1b2AfFxLb",
+                            cell_no: "E166",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Slovenia"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "J1xdPkLQqgn",
+                            cell_no: "D167",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Solomon Islands"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "J1xdPkLQqgn",
+                            cell_no: "E167",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Nurses Gen_Solomon Islands"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "f2XAafiQede",
+                            cell_no: "D168",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Somalia"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "f2XAafiQede",
+                            cell_no: "E168",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Somalia"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "tsd2otYofQa",
+                            cell_no: "D169",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_South Africa"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "tsd2otYofQa",
+                            cell_no: "E169",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Nurses Gen_South Africa"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "ESi2uY4Gqn1",
+                            cell_no: "D170",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_South Sudan"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "ESi2uY4Gqn1",
+                            cell_no: "E170",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Nurses Gen_South Sudan"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "lh9mjPVQgUs",
+                            cell_no: "D171",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Spain"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "lh9mjPVQgUs",
+                            cell_no: "E171",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Spain"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "ysEbNJwwJUO",
+                            cell_no: "D172",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Sri Lanka"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "ysEbNJwwJUO",
+                            cell_no: "E172",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Nurses Gen_Sri Lanka"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "slhvGcmFwtM",
+                            cell_no: "D173",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Sudan"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "slhvGcmFwtM",
+                            cell_no: "E173",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Sudan"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "ibxHVF1IOea",
+                            cell_no: "D174",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Suriname"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "ibxHVF1IOea",
+                            cell_no: "E174",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Suriname"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "rgozN0dmixB",
+                            cell_no: "D175",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Sweden"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "rgozN0dmixB",
+                            cell_no: "E175",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Sweden"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "Kh9ikyodKnN",
+                            cell_no: "D176",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Switzerland"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "Kh9ikyodKnN",
+                            cell_no: "E176",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Nurses Gen_Switzerland"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "KioZypAqUxc",
+                            cell_no: "D177",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Syrian Arab Republic"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "KioZypAqUxc",
+                            cell_no: "E177",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Nurses Gen_Syrian Arab Republic"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "ES9xDNLOKtZ",
+                            cell_no: "D178",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Tajikistan"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "ES9xDNLOKtZ",
+                            cell_no: "E178",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Nurses Gen_Tajikistan"
+                        },
+                        {
+                            deuid: "tu2P5ALJRow",
+                            cocuid: "jfXGOQwsmKq",
+                            cell_no: "D179",
+                            total: false,
+                            comment: false,
+                            name:
+                                "NHWA_HWF_Foreign trained Medical doctors Gen_Thailand"
+                        },
+                        {
+                            deuid: "Ni2b6zYWjjT",
+                            cocuid: "jfXGOQwsmKq",
+                            cell_no: "E179",
+                            total: false,
+                            comment: false,
+                            name: "NHWA_HWF_Foreign trained Nurses Gen_Thailand"
                         },
                         {
                             deuid: "tu2P5ALJRow",
