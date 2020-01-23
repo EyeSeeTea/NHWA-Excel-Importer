@@ -1,5 +1,5 @@
 {
-	"version": "2.9.10-BETA",
+	"version": "2.9.11",
 	"name": "NHWA Data Importer",
 	"description": "Uploads data from predefined excel templates",
 	"icons": {
